@@ -7,7 +7,7 @@ Refer to older repository: https://github.com/BaseMax/RandStringC/
 # Supporting
 
 - Linux (Random, Urandom)
-- BSD (FreeBSD, ...)
+- BSD (FreeBSD,OpenBSD, ...)
 - Win32
 - Emscripten
 
