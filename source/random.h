@@ -1,6 +1,6 @@
 /**
 *
-* @Name : SecureRandStringC.C
+* @Name : SecureRandString.C
 * @Version : 1.0
 * @Programmer : Max
 * @Date : 2019-03-23
